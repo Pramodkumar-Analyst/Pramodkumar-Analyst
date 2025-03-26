@@ -5,9 +5,6 @@
 
 <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/" target="_blank"><img align="left" alt="LinkedIn" width="35px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg" /></a>  
 <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/" target="_blank"><img align="left" alt="LinkedIn" width="35px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/gmail-icon.svg" /></a> 
-
-
-
 <br />
 
 
