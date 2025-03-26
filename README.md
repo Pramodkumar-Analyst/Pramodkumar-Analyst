@@ -3,7 +3,7 @@
 
 ### Socials:
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:9px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Email.svg"/>
 
 <br />
