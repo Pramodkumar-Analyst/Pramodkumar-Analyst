@@ -22,7 +22,7 @@
 <br />
 <br />
 
-## 📊 GitHub Stats:
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pramodkumar-Analyst&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pramodkumar-Analyst&theme=radical&hide_border=false)<br/>
 
