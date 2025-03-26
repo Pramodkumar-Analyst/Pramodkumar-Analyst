@@ -3,7 +3,6 @@
 
 ## 🌐 Socials:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/www.linkedin.com/in/pramod-kumar-sahu-) 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=/>(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pramodkumarsahu027@gmail.com) 
 
 # 💻 Tech Stack:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
