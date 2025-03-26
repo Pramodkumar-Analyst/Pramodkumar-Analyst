@@ -4,6 +4,12 @@
 ## 🌐 Socials:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />(https://linkedin.com/in/www.linkedin.com/in/pramod-kumar-sahu-)] 
 
+<a href="https://linkedin.com/in/pramod-kumar-sahu/" target="_blank">
+    <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+
+
 # 💻 Tech Stack:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
