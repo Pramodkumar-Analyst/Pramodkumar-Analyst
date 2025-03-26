@@ -14,7 +14,8 @@
 ## 💻 Tech Stack:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=![image](https://github.com/user-attachments/assets/d729f9d4-83a5-4434-9770-b667334b9621)
+"/>
 <br />
 
 
