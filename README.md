@@ -4,8 +4,10 @@
 ### Socials:
 <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/" target="_blank">
     <img align="left" alt="LinkedIn" width="35px" style="padding-right:10px;" 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />  
+</a>  
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/2k.svg"/>
+
 <br />
 
 
