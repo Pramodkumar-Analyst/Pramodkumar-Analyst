@@ -6,7 +6,7 @@
     <img align="left" alt="LinkedIn" width="35px" style="padding-right:10px;" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />  
 </a>  
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/excel.png"/>
+
 
 <br />
 
@@ -16,6 +16,7 @@
 ### Skills:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/excel.png"/>
 
 <br />
 
