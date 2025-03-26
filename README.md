@@ -12,7 +12,7 @@
 
 
 ## 💻 Tech Stack:
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://mailmeteor.com/logos/microsoft-excel"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 
 <br />
