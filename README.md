@@ -1,7 +1,7 @@
 👋 Hi, I’m Pramod<br>👀 I’m interested in Data Analytics<br>🌱 I’m currently learning R, Python, SQL, Excel, Tableau, Power BI<br>💞️ I’m looking to collaborate on https://www.linkedin.com/in/pramod-kumar-sahu-/<br>📫 How to reach me https://www.linkedin.com/in/pramod-kumar-sahu-/
 
 
-## 🌐 Socials:
+### Socials:
 <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/" target="_blank">
     <img align="left" alt="LinkedIn" width="35px" style="padding-right:10px;" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
@@ -11,7 +11,7 @@
 
 
 
-## Skills:
+### Skills:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 
