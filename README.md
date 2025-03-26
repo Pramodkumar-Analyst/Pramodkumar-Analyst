@@ -3,16 +3,9 @@
 
 ### Socials:
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://www.linkedin.com/in/pramod-kumar-sahu/" target="_blank">
-        <img alt="LinkedIn" width="35" height="35" style="vertical-align: middle;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg" />
-    </a>
-
-    <a href="mailto:your-email@gmail.com">
-        <img alt="Gmail" width="35" height="35" style="vertical-align: middle;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/gmail-icon.svg" />
-    </a>
-</div>
-
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/microsoft-excel-icon.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/power-bi-icon.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/python-programming-language-icon.svg"/>
 
 <br />
 
