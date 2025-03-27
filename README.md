@@ -9,8 +9,8 @@
 </div>
 
 
-<h3 align="center">Connect with me 👇</h3>
-<div align="center"> 
+<div align="center">
+    <h3 align="center">Connect with me 👇</h3>
   <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/" target="_blank">
     <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg" target="_blank" />
   </a> 
