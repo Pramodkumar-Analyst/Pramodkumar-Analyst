@@ -6,11 +6,13 @@
 
    
 
-
+<div align="center"> 
       <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
-        <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/></a> 
+        <img width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/></a> 
       <a href="mailto:pramodkumarsahu027@gmail.com">
-         <img align="left" alt="Java" width="34px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Email.svg"/>
+         <img width="34px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Email.svg"/></a>
+</div>
+
 <br />
 
 
