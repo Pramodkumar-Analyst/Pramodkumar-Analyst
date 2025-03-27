@@ -8,17 +8,16 @@
 <br>
    
 
-<table align="center">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/pramod-kumar-sahu-" target="_blank">
-      <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
-    </a></td>
-    <td width="20px"></td> <!-- Space between icons -->
-    <td><a href="mailto:pramodkumarsahu027@gmail.com">
-      <img width="34px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Gmail-01.svg"/>
-    </a></td>
-  </tr>
-</table>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-" target="_blank">
+    <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
+  </a> 
+  <span style="margin: 0 15px;"> </span> <!-- Space between icons -->
+  <a href="mailto:pramodkumarsahu027@gmail.com">
+    <img width="34px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Gmail-01.svg"/>
+  </a>
+</div>
+
 
 
 
