@@ -8,21 +8,16 @@
 <br>
    
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-" target="_blank">
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-" target="_blank" style="text-decoration: none;">
     <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
   </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Space between icons -->
-  <a href="mailto:pramodkumarsahu027@gmail.com">
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space between icons -->
+  <a href="mailto:pramodkumarsahu027@gmail.com" style="text-decoration: none;">
     <img width="34px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Gmail-01.svg"/>
   </a>
 </div>
 
-<style>
-  a img {
-    border: none;
-  }
-</style>
 
 
 
