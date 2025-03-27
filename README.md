@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pramod!;" />
+</h1>
+
 👋 Hi, I’m Pramod<br>👀 I’m interested in Data Analytics<br>🌱 I’m currently learning R, Python, SQL, Excel, Tableau, Power BI<br>💞️ I’m looking to collaborate on https://www.linkedin.com/in/pramod-kumar-sahu-/<br>📫 How to reach me https://www.linkedin.com/in/pramod-kumar-sahu-/
 
    
