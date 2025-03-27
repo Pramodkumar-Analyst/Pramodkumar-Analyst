@@ -21,10 +21,7 @@
   </a>
 </div>
 <br />
-
-
-
-
+<hr/>
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br />
