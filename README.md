@@ -4,8 +4,8 @@
 
 <div align="center">
     👋 Hi, I’m Pramod<br>
-    👀 I’m interested in **Data Analytics**
-    🌱 I’m currently learning **Docker, Supabase, AWS**
+    👀 I’m interested in Data Analytics<br>
+    🌱 I’m currently learning Pandas, Tableau, Python<br>
 </div>
 <br>
    
