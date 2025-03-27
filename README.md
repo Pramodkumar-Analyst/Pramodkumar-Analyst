@@ -20,11 +20,6 @@
     <img width="34px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Gmail-01.svg"/>
   </a>
 </div>
-
-
-
-
-
 <br />
 
 
