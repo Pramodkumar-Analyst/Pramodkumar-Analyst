@@ -13,7 +13,7 @@
    
 <div align="center"> 
   <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
-    <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
+    <img width="30px" src=/>
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add space between icons -->
   <a href="mailto:pramodkumarsahu027@gmail.com">
