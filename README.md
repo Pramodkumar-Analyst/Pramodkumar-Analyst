@@ -21,7 +21,6 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
-
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 <img align="left" alt="Spring" width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/SQL%20Database.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/microsoft-excel-icon.svg"/>
