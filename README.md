@@ -28,7 +28,8 @@
     <img width="55px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/SQL%20Database.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="50px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/microsoft-excel-icon.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="50px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/power-bi-icon.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="50px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/python-programming-language-icon.svg"/>
+    <img width="50px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/python-programming-language-icon.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/pandas.svg"/>
 </div>
 
 
