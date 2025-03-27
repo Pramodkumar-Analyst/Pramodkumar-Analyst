@@ -9,8 +9,8 @@
 </div>
 <br>   
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
-    <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
+  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/" target="_blank">
+    <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg" target="_blank" />
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add space between icons -->
   <a href="mailto:pramodkumarsahu027@gmail.com">
