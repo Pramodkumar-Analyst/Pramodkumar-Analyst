@@ -12,7 +12,7 @@
       <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
         <img width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/></a> 
       <a href="mailto:pramodkumarsahu027@gmail.com">
-         <img width="34px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Email.svg"/></a>
+         <img width="34px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Gmail-01.svg"/></a>
 </div>
 
 <br />
