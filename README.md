@@ -3,9 +3,9 @@
 </h1>
 
 <div align="center">
-    👋 Hi, I’m <strong>Pramod</strong><br>
-    👀 I’m interested in <strong>Data Analytics</strong><br>
-    🌱 I’m currently learning <strong>Pandas</strong>, <strong>Tableau</strong>, and <strong>Python</strong><br>
+    👋 <strong>Hi, I’m Pramod</strong><br>
+    👀 <strong>I’m interested in Data Analytics</strong><br>
+    🌱 <strong>I’m currently learning Pandas, Tableau, Python</strong><br>
 </div>
 <br>
 
