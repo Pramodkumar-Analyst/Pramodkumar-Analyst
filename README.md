@@ -5,14 +5,12 @@
 👋 Hi, I’m Pramod<br>👀 I’m interested in Data Analytics<br>🌱 I’m currently learning R, Python, SQL, Excel, Tableau, Power BI<br>💞️ I’m looking to collaborate on https://www.linkedin.com/in/pramod-kumar-sahu-/<br>📫 How to reach me https://www.linkedin.com/in/pramod-kumar-sahu-/
 
    
-### Socials:
-<p align="left">
+
+
       <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
         <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/></a> 
       <a href="mailto:pramodkumarsahu027@gmail.com">
          <img align="left" alt="Java" width="34px" style="padding-right:10px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Email.svg"/>
- </p>
-            
 <br />
 
 
