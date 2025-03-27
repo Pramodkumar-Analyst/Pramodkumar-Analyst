@@ -22,14 +22,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
 <div align="center">
-   <img src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Screenshot%202025-03-27%20103505.png" /> 
+    <img width="55px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
+    <img width="55px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/SQL%20Database.svg"/>
+    <img width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/microsoft-excel-icon.svg"/>
+    <img width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/power-bi-icon.svg"/>
+    <img width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/python-programming-language-icon.svg"/> 
 </div>
 
-<img align="left" alt="Java" width="55px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
-    <img align="left" alt="Spring" width="55px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/SQL%20Database.svg"/>
-    <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/microsoft-excel-icon.svg"/>
-    <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/power-bi-icon.svg"/>
-    <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/python-programming-language-icon.svg"/>
+
 <!--### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pramodkumar-Analyst&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pramodkumar-Analyst&theme=radical&hide_border=false)<br/> -->
