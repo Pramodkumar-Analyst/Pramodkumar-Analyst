@@ -7,9 +7,6 @@
     👀 I’m interested in <strong>Data Analytics</strong><br>
     🌱 I’m currently learning <strong>Pandas, Tableau, Python</strong><br>
 </div>
-<br>
-
-
    
 <div align="center"> 
   <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
@@ -20,7 +17,6 @@
     <img width="34px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Gmail-01.svg"/>
   </a>
 </div>
-<br />
 <hr/>
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
