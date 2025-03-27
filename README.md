@@ -7,6 +7,7 @@
     👀 I’m interested in <strong>Data Analytics</strong><br>
     🌱 I’m currently learning <strong>Pandas, Tableau, Python</strong><br>
 </div>
+<br>
    
 <div align="center"> 
   <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
