@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    👋 Hi, I’m <strong>Pramod</strong><br>
+    <h3>👋 Hi, I’m <strong>Pramod</strong><br></h3>
     👀 I’m interested in <strong>Data Analytics</strong><br>
     🌱 I’m currently learning <strong>Pandas, Tableau, Python</strong><br>
 </div>
