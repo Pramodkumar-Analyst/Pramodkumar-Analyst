@@ -3,8 +3,9 @@
 </h1>
 
 <div align="center">
-    👋 Hi, I’m Pramod<br>👀 I’m interested in Data Analytics<br>🌱 I’m currently learning R, Python, SQL, Excel, Tableau, Power BI<br>💞️ 
+    👋 Hi, I’m Pramod<br>👀 I’m interested in Data Analytics<br>🌱 I’m currently learning R, Python, SQL, Excel, Tableau, Power BI<br>
 </div>
+<br>
    
 
 <div align="center"> 
