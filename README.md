@@ -24,12 +24,13 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br />
 <div align="center">
-    <img width="55px" style="margin: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
-    <img width="55px" style="margin: 50px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/SQL%20Database.svg"/>
-    <img width="50px" style="margin: 50px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/microsoft-excel-icon.svg"/>
-    <img width="50px" style="margin: 50px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/power-bi-icon.svg"/>
-    <img width="50px" style="margin: 50px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/python-programming-language-icon.svg"/> 
+    <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="55px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/SQL%20Database.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/microsoft-excel-icon.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/power-bi-icon.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="50px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/python-programming-language-icon.svg"/>
 </div>
+
 
 
 
