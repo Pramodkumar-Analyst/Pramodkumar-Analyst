@@ -5,7 +5,7 @@
 <div align="center">
     👋 Hi, I’m Pramod<br>
     👀 I’m interested in **Data Analytics**
-    🌱 I’m currently learning **Pandas, Python, Tableau**
+    🌱 I’m currently learning **Docker, Supabase, AWS**
 </div>
 <br>
    
