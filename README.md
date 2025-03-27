@@ -9,7 +9,7 @@
    
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/" target="_blank" style="text-decoration: none;">
     <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space between icons -->
