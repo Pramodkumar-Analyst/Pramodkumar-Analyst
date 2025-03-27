@@ -9,14 +9,15 @@
    
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-" target="_blank">
+  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-" target="_blank" style="text-decoration: none;">
     <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
   </a> 
-  &nbsp;&nbsp;&nbsp; <!-- Add space between icons -->
-  <a href="mailto:pramodkumarsahu027@gmail.com">
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space between icons -->
+  <a href="mailto:pramodkumarsahu027@gmail.com" style="text-decoration: none;">
     <img width="34px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Gmail-01.svg"/>
   </a>
 </div>
+
 
 
 <br />
