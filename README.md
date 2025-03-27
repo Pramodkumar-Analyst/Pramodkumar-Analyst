@@ -27,10 +27,6 @@
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/power-bi-icon.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/python-programming-language-icon.svg"/>
 
-
-<br />
-<br />
-
 <!--### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pramodkumar-Analyst&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pramodkumar-Analyst&theme=radical&hide_border=false)<br/> -->
