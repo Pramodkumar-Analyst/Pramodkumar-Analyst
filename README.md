@@ -5,9 +5,9 @@
 <div align="center">
     👋 Hi, I’m <strong>Pramod</strong><br>
     👀 I’m interested in <strong>Data Analytics</strong><br>
-    🌱 I’m currently learning <strong>Pandas, Tableau, Python</strong><br>
+    🌱 I’m currently learning <strong>Pandas, Tableau, Python</strong>
 </div>
-   
+<br>   
 <div align="center"> 
   <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
     <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
