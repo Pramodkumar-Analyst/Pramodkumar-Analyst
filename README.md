@@ -9,7 +9,7 @@
 </div>
 <br>
 
-
+<hr/>
    
 <div align="center"> 
   <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
@@ -21,7 +21,7 @@
   </a>
 </div>
 <br />
-<hr/>
+
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br />
