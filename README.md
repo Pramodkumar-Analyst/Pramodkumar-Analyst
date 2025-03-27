@@ -9,11 +9,15 @@
    
 
 <div align="center"> 
-      <a href="https://www.linkedin.com/in/pramod-kumar-sahu-/">
-        <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/> &nbsp;&nbsp;</a> 
-      <a href="mailto:pramodkumarsahu027@gmail.com">
-         <img width="34px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Gmail-01.svg"/></a>
+  <a href="https://www.linkedin.com/in/pramod-kumar-sahu-" target="_blank">
+    <img width="30px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/linkedin-app-icon.svg"/>
+  </a> 
+  <span style="margin: 0 15px;"> </span> <!-- Space between icons -->
+  <a href="mailto:pramodkumarsahu027@gmail.com">
+    <img width="34px" src="https://github.com/Pramodkumar-Analyst/icon/blob/main/Gmail-01.svg"/>
+  </a>
 </div>
+
 
 <br />
 
